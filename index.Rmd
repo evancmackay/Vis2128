@@ -42,9 +42,21 @@ This interactive map demonstrates the following skills:
 
 <!-- [![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"} -->
 
-<!-- [![](thumbnails/SelmaBridgeBlack.png)](https://evancmackay.github.io/Vis2128/fullsize/inter_black_AL_EdmundPettusBridge_MedianAge_Institutionalized.html){target="_blank"} -->
+[![](thumbnails/SelmaBridgeBlack.png)](https://evancmackay.github.io/Vis2128/fullsize/inter_black_AL_EdmundPettusBridge_MedianAge_Institutionalized.html){target="_blank"}
 
-<!-- [![](thumbnails/SelmaEarningsTracts.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"} -->
+[![](thumbnails/SelmaEarningsTracts.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
+
+[![](thumbnails/screenshot_of_sf.png)](https://evancmackay.github.io/Vis2128/fullsize/export_SF_housing.pdf){target="_blank"}
+
+[![](thumbnails/DistanceFromWaterPoliceStation.png)](https://evancmackay.github.io/Vis2128/fullsize/DistanceFromWaterPoliceStation.pdf){target="_blank"}
+
+# Map 5 Here
+
+[![](thumbnails/screenshot_of_sf.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
+
+
+
+Just to see if this is working here...
 
 
 
