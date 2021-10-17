@@ -12,6 +12,11 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+# install.packages("gitcreds")
+# library(gitcreds)
+# gitcreds_set()
+
 ```
 
 Note on collaboration: This portfolio follows the layout provided by Carole Voulgaris. The visuals demonstrated here are drawn, with some slight adaptations, from group assignments from the Vis2128 class and thus include ideas and code originally from my group members, which varied week by week. 
@@ -38,5 +43,6 @@ This interactive map demonstrates the following skills:
 <!-- [![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"} -->
 
 <!-- [![](thumbnails/Boston_interactive.png)](https://evancmackay.github.io/Vis2128//fullsize/inter_black.html){target="_blank"} -->
+
 
 
