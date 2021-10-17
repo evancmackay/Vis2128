@@ -6,7 +6,7 @@ output:
   html_document:
     theme: cerulean
     toc: true
-    toc_depth: 3
+    toc_depth: 5
     toc_float: true
 ---
 
@@ -43,9 +43,9 @@ This portfolio demonstrates each of the following skills:
 
 [![](thumbnails/DistanceFromWaterPoliceStation.png)](https://evancmackay.github.io/Vis2128/fullsize/DistanceFromWaterPoliceStation.pdf){target="_blank"}
 
-# Map 5 Here
+# Map of Hong Kong
 
-[![](thumbnails/screenshot_of_sf.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
+[![](thumbnails/HongKongTravel.png)](https://evancmackay.github.io/Vis2128/fullsize/HongKongTravel.pdf){target="_blank"}
 
 
 # Two interactive maps of Dallas County, Mississippi
