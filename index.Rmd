@@ -32,35 +32,45 @@ This portfolio demonstrates each of the following skills:
 * Georeferencing a raster image
 * Displaying data on an interactive map
 
-# Maps of Boston
-Here are two maps of Boston. I might include some text here about this set of maps.
-
-## Interactive Map
-This interactive map demonstrates the following skills: 
-
-* Displaying data on an interactive map
 
 <!-- [![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"} -->
 
-[![](thumbnails/SelmaBridgeBlack.png)](https://evancmackay.github.io/Vis2128/fullsize/inter_black_AL_EdmundPettusBridge_MedianAge_Institutionalized.html){target="_blank"}
-https://evancmackay.github.io/Vis2128/fullsize/inter_black_AL_EdmundPettusBridge_MedianAge_Institutionalized.html
-
-[![](thumbnails/SelmaEarningsTracts.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
-https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html
+# Map of San Francisco Fire and affordable housing zoning
 
 [![](thumbnails/screenshot_of_sf.png)](https://evancmackay.github.io/Vis2128/fullsize/export_SF_housing.pdf){target="_blank"}
-https://evancmackay.github.io/Vis2128/fullsize/export_SF_housing.pdf
+
+# Map of Boston Police Stations and Water
 
 [![](thumbnails/DistanceFromWaterPoliceStation.png)](https://evancmackay.github.io/Vis2128/fullsize/DistanceFromWaterPoliceStation.pdf){target="_blank"}
-https://evancmackay.github.io/Vis2128/fullsize/DistanceFromWaterPoliceStation.pdf
 
 # Map 5 Here
 
 [![](thumbnails/screenshot_of_sf.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
 
 
+# Two interactive maps of Dallas County, Mississippi
 
-Just to see if this is working here...
+## Percentage Black
+
+Click the census block for Black population, total population, institutionalized population, and median age
+
+[![](thumbnails/SelmaBridgeBlack.png)](https://evancmackay.github.io/Vis2128/fullsize/inter_black_AL_EdmundPettusBridge_MedianAge_Institutionalized.html){target="_blank"}
+
+## Median Income
+
+Click the census tract for the exact median income. 
+
+[![](thumbnails/SelmaEarningsTracts.png)](https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html){target="_blank"}
+https://evancmackay.github.io/Vis2128/fullsize/median_earnings_tract.html
+
+
+This visual attempts to demonstrate the importance of being able to zoom and pan throughout the visual. At first, all of Dallas County, Alabama is visible. However, if a viewer wants to investigate the city of Selma, AL they are able to do so. Additionally, they are able to investigate the Edmund Pettus Bridge in downtown Selma which separates the North and South side. I wanted to investigate this location to see if there was a visible persisting racial segregation along this bridge. I think that many things in Dallas County have changed since the Edmund Pettus Bridge became infamous in 1965. Specifically, Civil Rights and voting suffrage activists were largely successful, and Selma was later the site of Black political power and racial justice organizing in the second half of the 20th century. It, and Dallas County, now have a history of Black political leadership with close connections to the Civil Rights Movement. The racial turnover visible in this map is likely the result of white flight from the area just South of the Edmund Pettus Bridge. 
+
+To be clear, this close analysis would not have been possible in just one visual without interactivity. It is the interactivity which enables investigation at the large scale of all of Dallas County and also smaller scale investigation to find that census blocks on either side of the bridge are near 100% Black. 
+
+I also include information on the institutionalized population, which can include people who live in a college dorm, on a military base, in a residential care facility for seniors, or jails or prisons. 
+
+Additionally, many analyses have demonstrated a trend since 2000 of depopulating rural Black communities driven by the exodus of young people from these communities. For this reason, I also include the median age. 
 
 
 
