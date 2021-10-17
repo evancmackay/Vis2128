@@ -1,0 +1,38 @@
+---
+title: "Final Portfolio"
+author: "Evan MacKay"
+date: "10/18/2021"
+output: 
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Note on collaboration: This portfolio follows the layout provided by Carole Voulgaris. The visuals demonstrated here are drawn, with some slight adaptations, from group assignments from the Vis2128 class and thus include ideas and code originally from my group members, which varied week by week. 
+
+This portfolio demonstrates each of the following skills:
+
+* Displaying multiple vector layers on the same map
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Aggregating point data to a layer of polygons
+* Calculating and displaying accessibility, based on travel time
+* Converting between raster layers and vector layers
+* Displaying raster data on a map
+* Georeferencing a raster image
+* Displaying data on an interactive map
+
+# Maps of Boston
+Here are two maps of Boston. I might include some text here about this set of maps.
+
+## Interactive Map
+This interactive map demonstrates the following skills: 
+
+* Displaying data on an interactive map
+
+[![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"}
